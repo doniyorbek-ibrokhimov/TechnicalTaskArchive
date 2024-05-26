@@ -54,6 +54,7 @@ To run the scraper:
 - Python 3.6+
 - `aiohttp`
 - `beautifulsoup4`
+- `lxml`
 
 ## Author
 
